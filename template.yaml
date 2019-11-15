@@ -11,7 +11,7 @@ Resources:
     Properties:
       LayerName: ffmpeg 
       Description: FFMPEG for AWS Lambda
-      ContentUri: build/layer
+      ContentUri: s3://dl-face-rec-test/build/layer
       CompatibleRuntimes:
         - nodejs10.x
         - python3.6
