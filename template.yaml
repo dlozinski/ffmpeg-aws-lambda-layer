@@ -15,7 +15,7 @@ Resources:
       CompatibleRuntimes:
         - nodejs10.x
         - python3.6
-        - ruby2.5
+        - python3.7
         - java8
         - go1.x
       LicenseInfo: GPL-2.0-or-later
